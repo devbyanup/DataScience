@@ -6,3 +6,9 @@ print(type(i))
 
 rahul=True
 print(type(rahul))
+
+
+a=45
+b=50
+c=a+b
+print(c)
